@@ -1,0 +1,8 @@
+C:\Users\District_11\Desktop\JustProject\JP.Data\bin\Debug\netcoreapp3.1\JP.Data.deps.json
+C:\Users\District_11\Desktop\JustProject\JP.Data\bin\Debug\netcoreapp3.1\JP.Data.dll
+C:\Users\District_11\Desktop\JustProject\JP.Data\bin\Debug\netcoreapp3.1\JP.Data.pdb
+C:\Users\District_11\Desktop\JustProject\JP.Data\obj\Debug\netcoreapp3.1\JP.Data.AssemblyInfoInputs.cache
+C:\Users\District_11\Desktop\JustProject\JP.Data\obj\Debug\netcoreapp3.1\JP.Data.AssemblyInfo.cs
+C:\Users\District_11\Desktop\JustProject\JP.Data\obj\Debug\netcoreapp3.1\JP.Data.csproj.CoreCompileInputs.cache
+C:\Users\District_11\Desktop\JustProject\JP.Data\obj\Debug\netcoreapp3.1\JP.Data.dll
+C:\Users\District_11\Desktop\JustProject\JP.Data\obj\Debug\netcoreapp3.1\JP.Data.pdb

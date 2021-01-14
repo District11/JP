@@ -1,0 +1,12 @@
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.csprojAssemblyReference.cache
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.AssemblyInfoInputs.cache
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.AssemblyInfo.cs
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.csproj.CoreCompileInputs.cache
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\bin\Debug\netcoreapp3.1\JP.Serveses.deps.json
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\bin\Debug\netcoreapp3.1\JP.Serveses.dll
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\bin\Debug\netcoreapp3.1\JP.Serveses.pdb
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\bin\Debug\netcoreapp3.1\JP.Data.dll
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\bin\Debug\netcoreapp3.1\JP.Data.pdb
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.csproj.CopyComplete
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.dll
+C:\Users\District_11\Desktop\JustProject\JP.Serveses\obj\Debug\netcoreapp3.1\JP.Serveses.pdb
